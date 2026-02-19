@@ -21,7 +21,8 @@ Payment Method Distribution (Credit Card ~77%)
 🔗 **Download Excel Dashboard:**  
 [Google Drive Link](https://drive.google.com/file/d/1gsM_twVBvb-JTHAtsqHrm_lXNZWNYqhl/view)
 
-<img width="1862" height="724" alt="Screenshot 2026-02-13 103032" src="https://github.com/user-attachments/assets/d80076df-0936-4ad4-8d16-dbbc105597b4" />
+<img width="1551" height="574" alt="image" src="https://github.com/user-attachments/assets/68e134d2-6bbf-461d-b87d-8813f9c1041f" />
+
 
 
 
